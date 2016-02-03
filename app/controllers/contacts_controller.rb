@@ -3,6 +3,6 @@ class ContactsController < ApplicationController
         @contact = Contact.new
     end
     
-    def create_table
+    def create
     end
 end
